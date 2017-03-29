@@ -1,0 +1,26 @@
+﻿生成启动时间为 2017/3/7 15:20:26。
+     1>项目“E:\4D2017\软件发布\driver_follow\driver_follow\driver_follow.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Release\driver_follow.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“Release\driver_follow.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D USER1_EXPORTS /D _WINDLL /D _MBCS /GF /Gm- /EHsc /MT /GS- /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt driver_follow.cpp
+         driver_follow.cpp
+     1>driver_follow.cpp(88): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>driver_follow.cpp(91): warning C4305: “=”: 从“double”到“float”截断
+     1>driver_follow.cpp(94): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\4D2017\软件发布\driver_follow\Release\driver_follow.dll" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /DEF:".\driver_follow.def" /MANIFEST /ManifestFile:"Release\driver_follow.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\4D2017\软件发布\driver_follow\Release\driver_follow.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /TLBID:1 /DYNAMICBASE /NXCOMPAT /MACHINE:X86 /DLL Release\driver_follow.obj
+            正在创建库 E:\4D2017\软件发布\driver_follow\Release\driver_follow.lib 和对象 E:\4D2017\软件发布\driver_follow\Release\driver_follow.exp
+         driver_follow.vcxproj -> E:\4D2017\软件发布\driver_follow\Release\driver_follow.dll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\4D2017\软件发布\driver_follow\Release\driver_follow.dll;#2" /manifest Release\driver_follow.dll.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Release\driver_follow.unsuccessfulbuild”。
+         正在对“Release\driver_follow.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\4D2017\软件发布\driver_follow\driver_follow\driver_follow.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.46

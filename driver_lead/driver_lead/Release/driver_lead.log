@@ -1,0 +1,27 @@
+﻿生成启动时间为 2017/3/7 15:10:12。
+     1>项目“E:\4D2017\软件发布\driver_lead\driver_lead\driver_lead.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Release\driver_lead.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“Release\driver_lead.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D USER1_EXPORTS /D _WINDLL /D _MBCS /GF /Gm- /EHsc /MT /GS- /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt driver_lead.cpp
+         driver_lead.cpp
+     1>driver_lead.cpp(87): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+     1>driver_lead.cpp(91): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>driver_lead.cpp(95): warning C4305: “=”: 从“double”到“float”截断
+     1>driver_lead.cpp(97): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\4D2017\软件发布\driver_lead\Release\driver_lead.dll" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /DEF:".\driver_lead.def" /MANIFEST /ManifestFile:"Release\driver_lead.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\4D2017\软件发布\driver_lead\Release\driver_lead.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /TLBID:1 /DYNAMICBASE /NXCOMPAT /MACHINE:X86 /DLL Release\driver_lead.obj
+            正在创建库 E:\4D2017\软件发布\driver_lead\Release\driver_lead.lib 和对象 E:\4D2017\软件发布\driver_lead\Release\driver_lead.exp
+         driver_lead.vcxproj -> E:\4D2017\软件发布\driver_lead\Release\driver_lead.dll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\4D2017\软件发布\driver_lead\Release\driver_lead.dll;#2" /manifest Release\driver_lead.dll.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Release\driver_lead.unsuccessfulbuild”。
+         正在对“Release\driver_lead.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\4D2017\软件发布\driver_lead\driver_lead\driver_lead.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.88

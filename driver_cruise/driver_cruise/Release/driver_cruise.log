@@ -1,0 +1,35 @@
+﻿D:\VisualStudio\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(373,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  driver_cruise.cpp
+driver_cruise.cpp(137): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+driver_cruise.cpp(140): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+driver_cruise.cpp(215): warning C4305: “=”: 从“double”到“float”截断
+driver_cruise.cpp(217): warning C4305: “=”: 从“double”到“float”截断
+driver_cruise.cpp(223): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+driver_cruise.cpp(225): warning C4305: “=”: 从“double”到“float”截断
+driver_cruise.cpp(231): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+driver_cruise.cpp(233): warning C4305: “=”: 从“double”到“float”截断
+driver_cruise.cpp(241): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+driver_cruise.cpp(271): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+driver_cruise.cpp(272): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+driver_cruise.cpp(273): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+driver_cruise.cpp(274): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+driver_cruise.cpp(275): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+driver_cruise.cpp(276): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+driver_cruise.cpp(295): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+driver_cruise.cpp(329): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+driver_cruise.cpp(364): warning C4305: “=”: 从“double”到“float”截断
+driver_cruise.cpp(366): warning C4305: “=”: 从“double”到“float”截断
+driver_cruise.cpp(372): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+driver_cruise.cpp(374): warning C4305: “=”: 从“double”到“float”截断
+driver_cruise.cpp(380): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+driver_cruise.cpp(382): warning C4305: “=”: 从“double”到“float”截断
+driver_cruise.cpp(390): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+driver_cruise.cpp(419): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+driver_cruise.cpp(420): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+driver_cruise.cpp(421): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+driver_cruise.cpp(422): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+driver_cruise.cpp(423): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+driver_cruise.cpp(424): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+    正在创建库 ..\..\Cyber Torcs\cybercruise\driver_cruise.lib 和对象 ..\..\Cyber Torcs\cybercruise\driver_cruise.exp
+  driver_cruise.vcxproj -> F:\！学习资料\工科\工程实践与科技创新\IV-D\driver_cruise\driver_cruise\..\..\Cyber Torcs\cybercruise\driver_cruise.dll
+  driver_cruise.vcxproj -> ..\..\Cyber Torcs\cybercruise\driver_cruise.pdb (Full PDB)

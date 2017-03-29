@@ -1,0 +1,9 @@
+﻿  driver_cruise.cpp
+f:\！学习资料\工科\工程实践与科技创新\iv-d\driver_cruise\driver_cruise\driver_cruise.cpp(130): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\！学习资料\工科\工程实践与科技创新\iv-d\driver_cruise\driver_cruise\driver_cruise.cpp(178): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\！学习资料\工科\工程实践与科技创新\iv-d\driver_cruise\driver_cruise\driver_cruise.cpp(183): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\！学习资料\工科\工程实践与科技创新\iv-d\driver_cruise\driver_cruise\driver_cruise.cpp(188): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\！学习资料\工科\工程实践与科技创新\iv-d\driver_cruise\driver_cruise\driver_cruise.cpp(197): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\！学习资料\工科\工程实践与科技创新\iv-d\driver_cruise\driver_cruise\driver_cruise.cpp(230): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  driver_cruise.vcxproj -> F:\！学习资料\工科\工程实践与科技创新\IV-D\driver_cruise\Debug\driver_cruise.dll
+  driver_cruise.vcxproj -> F:\！学习资料\工科\工程实践与科技创新\IV-D\driver_cruise\Debug\driver_cruise.pdb (Partial PDB)

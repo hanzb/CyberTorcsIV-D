@@ -1,0 +1,22 @@
+﻿生成启动时间为 2012/3/15 15:18:35。
+     1>项目“F:\交大\助教工作\CyberTorcs\user1\user1\user1.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\user1.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D USER1_EXPORTS /D _WINDLL /D _MBCS /GF /Gm- /EHsc /MT /GS- /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt user1.cpp
+         user1.cpp
+     1>user1.cpp(86): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\交大\助教工作\CyberTorcs\user1\Release\user1.dll" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /DEF:".\user1.def" /MANIFEST /ManifestFile:"Release\user1.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\交大\助教工作\CyberTorcs\user1\Release\user1.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /TLBID:1 /DYNAMICBASE /NXCOMPAT /MACHINE:X86 /DLL Release\user1.obj
+            正在创建库 F:\交大\助教工作\CyberTorcs\user1\Release\user1.lib 和对象 F:\交大\助教工作\CyberTorcs\user1\Release\user1.exp
+         user1.vcxproj -> F:\交大\助教工作\CyberTorcs\user1\Release\user1.dll
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\交大\助教工作\CyberTorcs\user1\Release\user1.dll;#2" /manifest Release\user1.dll.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Release\user1.unsuccessfulbuild”。
+         正在对“Release\user1.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\交大\助教工作\CyberTorcs\user1\user1\user1.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.18
